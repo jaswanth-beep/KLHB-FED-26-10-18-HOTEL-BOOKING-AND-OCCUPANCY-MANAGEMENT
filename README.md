@@ -5,7 +5,7 @@ TEAM MEMBERS NAMES WITH ID NUMBERS -
 1.2620030179 - JASWANTH
 2.2620030184 - ARUN
 SUPERVISORS NAME - DR K.RAJESH 
-Abstract - 
+Abstract -  
 The **Hotel Booking and Occupancy Management System** is a Java-based software application developed to facilitate the systematic management of hotel reservations and room occupancy. The primary objective of the system is to automate essential hotel operations, including room availability management, customer registration, reservation processing, check-in and check-out, booking modification, and billing. The application maintains structured records of customers, rooms, and reservations, thereby enabling efficient retrieval and management of information. It provides real-time identification of available, occupied, and reserved rooms, contributing to effective utilization of hotel resources. The system reduces dependence on manual record-keeping and minimizes the possibility of errors associated with conventional management practices. The implementation incorporates fundamental Java programming concepts, including classes and objects, methods, arrays, conditional statements, loops, and user input handling. The proposed system demonstrates the practical application of object-oriented programming principles to a real-world management problem and provides a structured, reliable, and efficient approach to hotel reservation and occupancy management.
 Project structure - 
 ## Project Structure
